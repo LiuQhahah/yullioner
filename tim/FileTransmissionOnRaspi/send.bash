@@ -1,7 +1,7 @@
 #!/bin/bash
 ## send data from camera to Client
-## @author : tim
-## @version : 1.0
+## @author tim
+## @version 1.0
 ## @date : March 2nd 2016
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:usr/local/sbin:~/bin
 export PATH
